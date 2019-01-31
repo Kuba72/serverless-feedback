@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://service.us.apiconnect.ibmcloud.com/gws/apigateway/api/CHANGEME/feedback';
+const apiUrl = 'https://service.eu.apiconnect.ibmcloud.com/gws/apigateway/api/cd5eb405049243e7e570a415b4a2272954fc29ef66573eabc51904b8cda5ebd7/feedback';
 const feedback = {
   // retrieve the existing feedback entries
   get() {
